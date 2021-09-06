@@ -1,2 +1,2 @@
-# rsschool-cv
-rsschool-cv
+https://khasanov26.github.io/rsschool-cv/cv
+
