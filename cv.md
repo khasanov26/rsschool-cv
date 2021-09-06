@@ -35,3 +35,13 @@ setInterval(random,1000)
 }
 ```
 ___
+## Education
+   * ### University: Kazan Technical University, Magister of Engineering
+   * ### Courses:
+      * #### Hexlet (HTML, CSS)
+      * #### HTML Academy
+      * #### JavaScript learn.javascript
+      * #### CS50
+___
+## Languages:
+   ### А2 - Pre-intermediate/Intermediate
