@@ -123,3 +123,176 @@ a {
    padding-right: 5px;
    margin-top: 5px;
 }
+.skills {
+   flex-direction: column;
+   margin-left: 48px;
+   margin-top: 32px;
+}
+
+.skills__name {
+   font-size: 7px;
+   line-height: 18px;
+   letter-spacing: 2px;
+   text-transform: uppercase;
+   color: #73808D;
+   max-width: 485px;
+}
+.skills__list {
+   font-family: Arial;
+   font-size: 7px;
+   line-height: 18px;
+   letter-spacing: 1px;
+   max-width: 485px;
+   margin-top: 5px;
+}
+li {
+   list-style-type: none;
+}
+
+
+
+.code__example {
+   flex-direction: column;
+   margin-left: 48px;
+   margin-top: 32px;
+}
+
+.code__example__head {
+   font-size: 7px;
+   line-height: 18px;
+   letter-spacing: 2px;
+   text-transform: uppercase;
+   color: #73808D;
+   max-width: 485px;
+}
+.code__example__pre {
+   max-width: 485px;
+   flex-wrap: wrap;
+   margin-top: -25px;
+}
+
+
+
+
+
+.education {
+   flex-direction: column;
+   margin-left: 48px;
+   margin-top: -32px;
+}
+
+.education__name {
+   font-size: 7px;
+   line-height: 18px;
+   letter-spacing: 2px;
+   text-transform: uppercase;
+   color: #73808D;
+   max-width: 485px;
+}
+.university__list{
+font-family: Arial;
+font-size: 7px;
+line-height: 18px;
+letter-spacing: 1px;
+max-width: 485px;
+margin-top: 5px;
+}
+.education__courses {
+   font-size: 7px;
+   line-height: 18px;
+   letter-spacing: 2px;
+   text-transform: uppercase;
+   color: #73808D;
+   max-width: 485px;
+   margin-top: 5px;
+}
+.courses__list {
+   font-family: Arial;
+   font-size: 7px;
+   line-height: 18px;
+   letter-spacing: 1px;
+   max-width: 485px;
+   margin-top: 5px;
+}
+
+.english {
+   flex-direction: column;
+   margin-left: 48px;
+   margin-top: 32px;
+}
+.name__languages {
+   font-size: 7px;
+   line-height: 18px;
+   letter-spacing: 2px;
+   text-transform: uppercase;
+   color: #73808D;
+   max-width: 485px;
+}
+.level__languages {
+   font-family: Arial;
+   font-size: 7px;
+   line-height: 18px;
+   letter-spacing: 1px;
+   max-width: 485px;
+   margin-top: 5px;
+}
+
+.footer {
+   display: flex;
+   flex-wrap: wrap;
+   background-color: #73808D;
+   height: 50px;
+   justify-content: center;
+   margin-top: 32px;
+}
+.footer__link {
+   display: flex;
+   gap: 25px;
+
+}
+.footer__item {
+   align-self: center;
+   font-size: 10px;
+   line-height: 18px;
+   letter-spacing: 1px;
+   max-width: 485px;
+   margin-top: 5px;
+   display: inline-block;
+   color: 	#FFFFFF
+}
+.footer__item__link {
+   color: 	#FFFFFF
+}
+
+
+
+
+@media (max-width: 1024px) {
+   .about__me__head {
+      max-width: 485px;
+
+   }
+}
+
+@media (max-width: 667px) {
+   .header {
+      flex-wrap: nowrap;
+      justify-content: space-around;
+      align-items: center;
+   }
+   .header__image {
+      padding: 0;
+   }
+   .header__contetnt {
+      padding: 0;
+   }
+
+/* 
+   .contacts__list {
+      justify-content: flex-start;
+      flex-wrap: wrap;
+   } */
+
+
+
+}
