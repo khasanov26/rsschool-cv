@@ -1,2 +1,2 @@
-https://khasanov26.github.io/rsschool-cv
+https://khasanov26.github.io/rsschool-cv//
 
